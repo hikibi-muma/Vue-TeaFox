@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "testF2",
+  "appid": "touristappid",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
